@@ -11,7 +11,7 @@ Documentation and project management for gammasim
 ## CTA MC Simulation Software
 
 1. "Concepts for the CTA Simulation System Software" (2020) [CTA internal redmine](https://forge.in2p3.fr/dmsf/files/9001/view)
-2. "MC Simulation Software Requirements" (2014)
+2. "MC Simulation Software Requirements" (2014) [CTA internal redmine](https://forge.in2p3.fr/dmsf/files/10892/view)
 
 ## CTA MC Model
 
